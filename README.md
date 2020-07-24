@@ -2,32 +2,32 @@
   <img src="https://refactoring.guru/images/patterns/cards/builder-mini.png"/>
 <p/>
 
-# Padrão de projeto builder
+# Builder pattern
 
-Builder é um padrão de projeto criacional que permite a você construir objetos complexos passo a passo. O padrão permite que você produza diferentes tipos e representações de um objeto usando o mesmo código de construção.
+Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
 ## Setup
 
-Para executar o projeto, será necessário instalar as dependências digitando o seguinte comando no terminal:
+To execute the project, it will be necessary to install the dependencies by typing the following command in the terminal:
 
 ```bash
 yarn install
 ```
 
-Para executar o projeto é preciso transpilar o código Typescript para JavaScript. Para isso digite o seguinte comando no terminal:
+To execute the project it is necessary to transpile the Typescript code to JavaScript. To do this, type the following command in the terminal:
 
 ```bash
 yarn tsc
 ```
 
-### Uso
+### Use
 
-Para executar o projeto já transpilado para JavaScript digite o seguinte comando no terminal:
+To execute the project already transpiled into JavaScript, type the following command in the terminal:
 
 ```bash
 yarn start
 ```
 
-## Licença
+## License
 
 MIT
